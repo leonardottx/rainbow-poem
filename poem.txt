@@ -4,5 +4,7 @@ Red
 Orange
 Yellow
 Green
+Blue
+Cian
 
 The end.
